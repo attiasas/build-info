@@ -31,7 +31,7 @@ buildscript {
 
         plexusCipherVersion = '2.0'
 
-        //TODO: Plexus Component Annotations is deprecated
+        // TODO: Plexus Component Annotations is deprecated
         // See: https://codehaus-plexus.github.io/plexus-containers/plexus-component-annotations/
         plexusComponentAnnotationsVersion = '2.1.1'
 
